@@ -5,8 +5,9 @@ class Solution:
         for n in nums:
             h[n] = h.get(n,0)+1
         
-        l = list(h.values())
-        m=(max(l))
+        l = max(list(h.values()))
+
+        for key, value in h.items():
+            if value == l:
+                return key
         
-        rev = {v:k for k,v in h.items()}
-        return rev[m]
