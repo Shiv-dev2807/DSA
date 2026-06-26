@@ -5,9 +5,10 @@ class Solution:
         for n in nums:
             h[n] = h.get(n,0)+1
         
-        l = max(list(h.values()))
+        l = max(h.values())
 
         for key, value in h.items():
             if value == l:
                 return key
+        
         
