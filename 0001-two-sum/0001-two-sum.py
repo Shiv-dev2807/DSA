@@ -5,6 +5,8 @@ class Solution:
         for i in range(len(nums)):
             sub = target - nums[i]
             if sub in hm:
-                return [hm.get(sub),i]
+                return [hm[sub],i]
             else:
                 hm[nums[i]] = i
+        
+        
