@@ -7,9 +7,9 @@ class Solution:
             s = nums.index(0)
         else:
             s = -1
+
         e = -1
 
-        
         
         for j in range(s+1,len(nums)):
             if nums[j] != 0:
