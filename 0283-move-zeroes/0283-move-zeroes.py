@@ -3,13 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        s = -1
+        if 0 in nums:
+            s = nums.index(0)
+        else:
+            s = -1
         e = -1
 
-        for i in range(len(nums)):
-            if nums[i] == 0:
-                s = i
-                break
+        
         
         for j in range(len(nums)):
             if nums[j] != 0 and j > s:
