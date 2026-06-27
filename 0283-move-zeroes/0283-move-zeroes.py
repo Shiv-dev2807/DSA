@@ -11,8 +11,8 @@ class Solution:
 
         
         
-        for j in range(len(nums)):
-            if nums[j] != 0 and j > s:
+        for j in range(s+1,len(nums)):
+            if nums[j] != 0:
                 e = j
                 break
     
