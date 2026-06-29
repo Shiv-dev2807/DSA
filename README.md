@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shiv-dev2807/DSA/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Shiv-dev2807/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shiv-dev2807/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shiv-dev2807/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shiv-dev2807/DSA/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Shiv-dev2807/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Shiv-dev2807/DSA/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Shiv-dev2807/DSA/tree/master/0844-backspace-string-compare) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shiv-dev2807/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shiv-dev2807/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shiv-dev2807/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
