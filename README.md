@@ -22,6 +22,7 @@
 | [0141-linked-list-cycle](https://github.com/Shiv-dev2807/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shiv-dev2807/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shiv-dev2807/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shiv-dev2807/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shiv-dev2807/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -29,6 +30,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shiv-dev2807/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shiv-dev2807/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shiv-dev2807/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -66,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shiv-dev2807/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Shiv-dev2807/DSA/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Shiv-dev2807/DSA/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shiv-dev2807/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
