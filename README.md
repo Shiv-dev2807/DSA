@@ -58,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shiv-dev2807/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shiv-dev2807/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Shiv-dev2807/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shiv-dev2807/DSA/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shiv-dev2807/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shiv-dev2807/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shiv-dev2807/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shiv-dev2807/DSA/tree/master/0392-is-subsequence) |
