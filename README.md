@@ -19,6 +19,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shiv-dev2807/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shiv-dev2807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2239-find-closest-number-to-zero](https://github.com/Shiv-dev2807/DSA/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
