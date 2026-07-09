@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shiv-dev2807/DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shiv-dev2807/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
