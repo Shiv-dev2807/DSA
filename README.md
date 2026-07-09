@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shiv-dev2807/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shiv-dev2807/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shiv-dev2807/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shiv-dev2807/DSA/tree/master/0242-valid-anagram) |
@@ -102,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shiv-dev2807/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shiv-dev2807/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Shiv-dev2807/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
