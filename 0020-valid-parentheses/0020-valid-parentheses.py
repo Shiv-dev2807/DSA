@@ -1,7 +1,6 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         op = ['(','[','{']
-        cl = [')',']','}']
 
         stack = []
         i = 0
