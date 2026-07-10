@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shiv-dev2807/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Shiv-dev2807/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shiv-dev2807/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shiv-dev2807/DSA/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shiv-dev2807/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Shiv-dev2807/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shiv-dev2807/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
