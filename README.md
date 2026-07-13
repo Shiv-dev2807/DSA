@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shiv-dev2807/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shiv-dev2807/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Shiv-dev2807/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Shiv-dev2807/DSA/tree/master/0066-plus-one) |
@@ -76,6 +77,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shiv-dev2807/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shiv-dev2807/DSA/tree/master/0125-valid-palindrome) |
@@ -169,4 +171,8 @@
 | [1148-article-views-i](https://github.com/Shiv-dev2807/DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Shiv-dev2807/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shiv-dev2807/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shiv-dev2807/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
