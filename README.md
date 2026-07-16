@@ -24,6 +24,7 @@
 | [0704-binary-search](https://github.com/Shiv-dev2807/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shiv-dev2807/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shiv-dev2807/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shiv-dev2807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Shiv-dev2807/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiv-dev2807/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
