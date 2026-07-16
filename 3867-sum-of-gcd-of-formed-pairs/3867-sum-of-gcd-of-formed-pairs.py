@@ -14,6 +14,7 @@ class Solution:
         left = 0
         right = len(l1)-1
         l2=[]
+        
         while left < right:
             l2.append(math.gcd(l1[left],l1[right]))
             left+=1
