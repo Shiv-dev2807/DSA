@@ -4,21 +4,21 @@ class Solution:
         left = 0
         right = 0
 
-        leven = []
-        lodd=[]
+        lpos = []
+        lneg=[]
         outputnums = []
 
         for i in range(len(nums)):
             if nums[i] > 0:
-                leven.append(nums[i])
+                lpos.append(nums[i])
             else:
-                lodd.append(nums[i])
+                lneg.append(nums[i])
             
             i+=1
         
-        while left<len(leven):
-            outputnums.append(leven[left])
-            outputnums.append(lodd[right])
+        while left<len(lpos):
+            outputnums.append(lpos[left])
+            outputnums.append(lneg[right])
             left+=1
             right+=1
         
