@@ -26,6 +26,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shiv-dev2807/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shiv-dev2807/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-dev2807/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shiv-dev2807/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shiv-dev2807/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/Shiv-dev2807/DSA/tree/master/2239-find-closest-number-to-zero) |
@@ -64,6 +65,7 @@
 | [0009-palindrome-number](https://github.com/Shiv-dev2807/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shiv-dev2807/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-dev2807/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shiv-dev2807/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shiv-dev2807/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiv-dev2807/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -211,6 +213,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-dev2807/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shiv-dev2807/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiv-dev2807/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
