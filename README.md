@@ -64,6 +64,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shiv-dev2807/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shiv-dev2807/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Shiv-dev2807/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-dev2807/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shiv-dev2807/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -152,6 +153,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shiv-dev2807/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shiv-dev2807/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shiv-dev2807/DSA/tree/master/0392-is-subsequence) |
 ## Linked List
@@ -218,4 +220,8 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-dev2807/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shiv-dev2807/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiv-dev2807/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shiv-dev2807/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
