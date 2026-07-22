@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Shiv-dev2807/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shiv-dev2807/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Shiv-dev2807/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Shiv-dev2807/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Shiv-dev2807/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shiv-dev2807/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shiv-dev2807/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Shiv-dev2807/DSA/tree/master/0704-binary-search) |
