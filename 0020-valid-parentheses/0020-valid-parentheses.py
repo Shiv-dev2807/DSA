@@ -3,19 +3,19 @@ class Solution:
         op = ['(','[','{']
 
         stack = []
-        i = 0
-        
-        while i < len(s):
-            if s[i] in op:
-                stack.append(s[i])
+
+        index = 0
+
+        while index < len(s):
+            if s[index] in op:
+                stack.append(s[index])
             else:
                 if not stack:
                     return False
                 else:
                     a = stack.pop()
-                    if (s[i] == ')' and a != '(') or (s[i] == ']' and a != '[') or (s[i] == '}' and a != '{'):
+                    if s[index] == ')' and a != '(' or s[index] == ']' and a != '[' or s[index] == '}' and a != '{':
                         return False
-            
-            i+=1
+            index+=1
         
         return len(stack) == 0
