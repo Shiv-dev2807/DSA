@@ -8,5 +8,3 @@ class Solution:
                 return [hm[sub],i]
             else:
                 hm[nums[i]] = i
-        
-        
