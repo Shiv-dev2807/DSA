@@ -27,6 +27,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Shiv-dev2807/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shiv-dev2807/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shiv-dev2807/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/Shiv-dev2807/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shiv-dev2807/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shiv-dev2807/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-dev2807/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -70,6 +71,7 @@
 | [0066-plus-one](https://github.com/Shiv-dev2807/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shiv-dev2807/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Shiv-dev2807/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-dev2807/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shiv-dev2807/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shiv-dev2807/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -164,6 +166,7 @@
 | [0070-climbing-stairs](https://github.com/Shiv-dev2807/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shiv-dev2807/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shiv-dev2807/DSA/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Shiv-dev2807/DSA/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -232,4 +235,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shiv-dev2807/DSA/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shiv-dev2807/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
