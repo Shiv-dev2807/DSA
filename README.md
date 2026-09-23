@@ -42,6 +42,7 @@
 | [0049-group-anagrams](https://github.com/Shiv-dev2807/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Shiv-dev2807/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shiv-dev2807/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shiv-dev2807/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shiv-dev2807/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shiv-dev2807/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shiv-dev2807/DSA/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/Shiv-dev2807/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shiv-dev2807/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shiv-dev2807/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Shiv-dev2807/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shiv-dev2807/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Shiv-dev2807/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-dev2807/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -112,6 +114,7 @@
 | [0141-linked-list-cycle](https://github.com/Shiv-dev2807/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Shiv-dev2807/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shiv-dev2807/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Shiv-dev2807/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shiv-dev2807/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shiv-dev2807/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shiv-dev2807/DSA/tree/master/0344-reverse-string) |
@@ -239,4 +242,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shiv-dev2807/DSA/tree/master/0877-stone-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shiv-dev2807/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
